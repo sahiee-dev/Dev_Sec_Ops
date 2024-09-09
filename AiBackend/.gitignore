@@ -1,0 +1,14 @@
+# Ignore macOS system files
+.DS_Store
+.localized
+
+# Ignore media files
+*.jpg
+*.png
+*.mov
+*.pdf
+*.gif
+*.webp
+
+# Ignore other irrelevant folders
+../*
